@@ -2,7 +2,7 @@
 
 An interactive **Streamlit-based data exploration app** that connects to your **SQL Server (AdventureWorks2022)** database, executes custom SQL queries, and visualizes results with **AI-powered insights**.
 
-![App Screenshot](add7aa69-010c-49b5-acc8-848a28c80cf0.png)
+![App Screenshot](https://github.com/sawantshubham086/SQL-AI-Dashboard/blob/main/SQL%20AI.png)
 
 ---
 
